@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 ##Overview: The purpose of this analysis was to use data from NYC's Citi Bike program to implement it in Des Moines, IA. Using Tableau, we crafted insights into the data in order to gain a better picture of the performance of NYC's Citi Bike 
 program. 
 

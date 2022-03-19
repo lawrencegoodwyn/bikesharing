@@ -1,7 +1,6 @@
 # Bikesharing [link to dashboard](https://public.tableau.com/shared/NN4PBCWNM?:display_count=n&:origin=viz_share_link "link to dashboard")
 
-##Overview: The purpose of this analysis was to use data from NYC's Citi Bike program to implement it in Des Moines, IA. Using Tableau, we crafted insights into the data in order to gain a better picture of the performance of NYC's Citi Bike 
-program. 
+## Overview: The purpose of this analysis was to use data from NYC's Citi Bike program to implement it in Des Moines, IA. Using Tableau, insights into the data in order to gain a better picture of the performance of NYC's Citi Bike were created. 
 
 ## Results: 
 ### August Ridership Peaks
@@ -29,4 +28,4 @@ As stated in the previous visualiztion, nearly all rides last roughly 10 mintues
 
 
 ## Summary: 
-The NYC Citi Bike program saw 2,344,244 rides in total in the month of August of 2019. With 1.9M and 400k subscribers and customers riding, respectively. Most of the rides occured around rush hour and users which are born later, 1970s and later, account for most of the ridership. Additionally, men occupy a larger percentage of ridership and account for nearly 3x the percentage of users.  I would take a deeper look into exactly what could cause the need for future repairs on bikes, a closer look at exactly where riders are travelling to on their bikes (a better map might be required for that). And also, since the goal is to put the service in Des Moines, what could be done to increase overall ridership there. What things could they ride the bikes to? Is the layout of Des Moines fitting for such a service? What can be done to increase the age range that is taking these bikes and how do we get more women to ride the bikes?
+The NYC Citi Bike program saw 2,344,244 rides in total in the month of August of 2019. With 1.9M and 400k subscribers and customers riding, respectively. Most of the rides occured around rush hour; and users which are born later, 1970s and later, account for most of the ridership. Additionally, men occupy a larger percentage of ridership and account for nearly 3x the percentage of users.  I would take a deeper look into exactly what could cause the need for future repairs on bikes, a closer look at exactly where riders are travelling to on their bikes (a better map might be required for that). And also, since the goal is to put the service in Des Moines, what could be done to increase overall ridership there. What destinations could they ride the bikes to? Is the layout of Des Moines fitting for such a service? What can be done to increase the age range that is taking these bikes and how do we get more women to ride the bikes?

@@ -1,6 +1,7 @@
 # Bikesharing [link to dashboard](https://public.tableau.com/shared/NN4PBCWNM?:display_count=n&:origin=viz_share_link "link to dashboard")
 
-## Overview: The purpose of this analysis was to use data from NYC's Citi Bike program to implement it in Des Moines, IA. Using Tableau, insights into the data in order to gain a better picture of the performance of NYC's Citi Bike were created. 
+## Overview
+The purpose of this analysis was to use data from NYC's Citi Bike program to implement it in Des Moines, IA. Using Tableau, insights into the data in order to gain a better picture of the performance of NYC's Citi Bike were created. 
 
 ## Results: 
 ### August Ridership Peaks
